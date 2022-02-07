@@ -1,3 +1,5 @@
+## Repo fork as stable backup.
+
 # TI4 Generator
 A web tool to generate Twilight Imperium 4 game boards through many custom settings.
 
